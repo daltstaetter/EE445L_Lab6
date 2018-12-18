@@ -1,0 +1,16 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File    : C:\Users\Dalton A\Desktop\ee445l_projects\Lab_6\Lab6_DEA528_HMR566 (PCB - Forward Design Changes Report).txt
+Report Written : Sunday, March 02, 2014
+Design Path    : C:\Users\Dalton A\Desktop\ee445l_projects\Lab_6\Lab6_DEA528_HMR566.pcb
+Design Title   : 
+Created        : 9/11/2009 10:58:24 AM
+Last Saved     : 3/2/2014 1:14:30 AM
+Editing Time   : 4265 min
+Units          : mil (precision 0)
+
+The designs are the same, so no design changes to forward.
+
+
+End Of Report.

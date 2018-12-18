@@ -1,0 +1,58 @@
+Design Rule Check Report
+------------------------
+
+Report File    : C:\Users\Dalton A\Desktop\ee445l_projects\Lab_6\Lab6_DEA528_HMR566 (PCB - Design Rule Check Report).txt
+Report Written : Sunday, March 02, 2014
+Design Path    : C:\Users\Dalton A\Desktop\ee445l_projects\Lab_6\Lab6_DEA528_HMR566.pcb
+Design Title   : 
+Created        : 9/11/2009 10:58:24 AM
+Last Saved     : 3/2/2014 1:14:30 AM
+Editing Time   : 4265 min
+Units          : mil (precision 0)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks         Yes
+Pads and Vias  Yes
+Shapes         Yes
+Text           Yes
+Board          Yes
+Drills         Yes
+Components     No
+
+
+Manufacturing
+
+==============
+
+Min Drill Hole Size  Yes
+Min Track Width      Yes
+Min Annular Ring     Yes
+Drill Breakout       Yes
+
+
+Nets
+
+=====
+
+Net Completion                Yes
+Dangling Tracks               Yes
+Net Track Length Differences  No
+
+
+
+End Of Report.

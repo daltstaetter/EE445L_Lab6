@@ -1,0 +1,26 @@
+Bill of Materials,,,,,,
+Component,Package,Value,Manuf,Manuf Part No,Ref Name,Qty
+0.25Wresistor,DIP,,,,GPIO Resistors,7
+0.125Wresistor,DIL,,,,R2 R3,2
+1N914,MISC,,,,DPA3 DPA2 DPA0 DPA1,4
+2N2222,TO92,,,,TPA3 TPA2 TPA0 TPA1,4
+B3F-1050,DIP,,,,SW6 SW2 SW0 SW1,4
+Ceramic,C,,,,C3 C4 C5 C6 C7 C8 C9,7
+Header2,SIP,,,,J2,1
+JTAG,USER,,AllElectronics,DHS-40,J1,1
+LEDT1.75,SIP,,,,Power,1
+LM3S811,QFP,,,,U1,1
+LM2937ET-3.3,TO220,,,,U2,1
+LogicAnalyzer,DIP,,,,J6,1
+Mammond1593Y,MISC,,,,Box1,1
+StepperMotor,SIL7,,,,J3,1
+tantalum,C,,,,C2 C10 C12,3
+testpoint,SIP,,,,GND,1
+,SIP,,+3.3V,,TP2,1
+,SIP,,+7.4v,,Battery,1
+XTAL,DSC,,,,Y1,1
+Total,,,,,,43
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

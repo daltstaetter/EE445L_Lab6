@@ -1,0 +1,20 @@
+Back Annotation Results Report
+------------------------------
+
+Report File    : C:\Users\Dalton A\Desktop\ee445l_projects\Lab_6\Lab6_DEA528_HMR566 (PCB - Back Annotation Results Report).txt
+Report Written : Saturday, March 01, 2014
+Design Path    : C:\Users\Dalton A\Desktop\ee445l_projects\Lab_6\Lab6_DEA528_HMR566.pcb
+Design Title   : 
+Created        : 9/11/2009 10:58:24 AM
+Last Saved     : 3/1/2014 10:43:31 PM
+Editing Time   : 4122 min
+Units          : mil (precision 0)
+
+Back Annotate renames from PCB "C:\Users\Dalton A\Desktop\ee445l_projects\Lab_6\Lab6_DEA528_HMR566.pcb" to Schematic "C:\Users\Dalton A\Desktop\ee445l_projects\Lab_6\Lab6_DEA528_HMR566.sch".
+
+Change Value on Component 'TP2' - '_'.
+Change Value on Component 'Battery' - 'Voltage'.
+Renamed Component from "TP1" to "Battery".
+
+
+End Of Report.
